@@ -1,3 +1,4 @@
+// My Own Method 
 function calculateBMI() {
     const form = document.querySelector('form')
     form.addEventListener('submit', (e) => {
